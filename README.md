@@ -8,7 +8,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takoyaki3466&theme=dark" />
 </a>
 
-<br>
+<br><br>
 
 ### TOOLS
 <p align="center">
