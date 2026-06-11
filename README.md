@@ -4,9 +4,6 @@
     <img src="https://skillicons.dev/icons?i=cs,java,kotlin" />
   </a>
 </p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takoyaki3466&theme=dark" />
-</a>
 
 <br><br>
 
@@ -22,4 +19,7 @@
 ### STATS
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=takoyaki3466&count_private=true&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takoyaki3466&theme=dark" />
 </a>
