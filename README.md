@@ -10,7 +10,7 @@
 ### TOOLS
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,idea,rider,blender,vscode,unity" />
+    <img src="https://skillicons.dev/icons?i=git,github,idea,rider,blender,vscode,unity,pycharm" />
   </a>
 </p>
 
