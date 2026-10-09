@@ -1,21 +1,22 @@
 # 制作物のUrlたち
 ### ManaitaMTK
   [ManaitaMTK - Modrinth](https://modrinth.com/mod/manaitamtk) <br>
-  ManaitaMTK - CurseForge: 作成予定なし
+  ManaitaMTK - CurseForge: 公開予定なし
 
 ### Manaita++
-  Manaita++ - Modrinth : [Manaita++ - Modrinth](https://modrinth.com/mod/manaitapp) <br>
+  [Manaita++ - Modrinth](https://modrinth.com/mod/manaitapp) <br>
   [Manaita++ - CurseForge](https://www.curseforge.com/minecraft/mc-mods/manaitapp)
 
 ### PEAA-Evolution
-  PEAA-Evolution - Modrinth : [PEAA-Evolution - Modrinth](https://modrinth.com/mod/peaa-evolution) <br>
+  [PEAA-Evolution - Modrinth](https://modrinth.com/mod/peaa-evolution) <br>
   [PEAA-Evolution - CruseForge](https://www.curseforge.com/minecraft/mc-mods/peaa-evolution)
 
 ### InfinityChest-Reborn
   誠意制作中
 
 ### SimpleItemEdit
-  SimpleItemEdit - Modrinth : [SimpleItemEdit - Modrinth](https://modrinth.com/plugin/simpleitemedit)
+  [SimpleItemEdit - Modrinth](https://modrinth.com/plugin/simpleitemedit) <br>
+  SimpleItemEdit - CurseForge : 公開予定なし
 
 
 ### 使用言語
